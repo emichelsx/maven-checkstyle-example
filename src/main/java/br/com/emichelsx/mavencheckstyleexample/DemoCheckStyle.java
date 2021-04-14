@@ -1,0 +1,17 @@
+package br.com.emichelsx.mavencheckstyleexample;
+
+/**
+ * class with explicit style code errors
+ */
+public class DemoCheckStyle {
+
+  public static void main(String[] args){
+
+    var test = 1;
+
+    if(true)     {
+
+    }
+
+  }
+}
