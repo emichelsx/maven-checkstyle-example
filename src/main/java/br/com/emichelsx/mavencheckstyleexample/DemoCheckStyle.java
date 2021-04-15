@@ -9,9 +9,28 @@ public class DemoCheckStyle {
 
     var test = 1;
 
+    /*
     if(true)     {
 
     }
+
+    try{
+      var foo = "x";
+    } catch (Exception e){
+
+    }
+
+    try{
+
+    } catch (Exception e){
+      System.err.println("one error");
+
+    }
+*/
+    if (true)
+      System.out.println();
+
+
 
   }
 }
